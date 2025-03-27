@@ -2,6 +2,10 @@
 #include <stdlib.h>
 #include <omp.h>
 
+
+
+
+
 #define Size 1000   // Matrix size
 #define Run 10
 
